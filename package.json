@@ -12,7 +12,7 @@
     "lint": "eslint assets/scripts assets/build",
     "test": "yarn run lint"
   },
-  "author": "",
+  "author": "Jordan Cauley",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
